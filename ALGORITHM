@@ -1,0 +1,12 @@
+
+🧠 Algorithm (Simple Steps)
+Start
+Input URL
+Check for suspicious keywords
+Check for numbers
+Check URL length
+Check HTTPS
+If any condition is true → Mark as Fraud
+Else → Mark as Safe
+Display result (Block/Allow)
+End
